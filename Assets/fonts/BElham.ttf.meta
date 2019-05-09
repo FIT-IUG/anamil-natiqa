@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f1c95ad2fec9a1749905b303bd92c3cb
+timeCreated: 1497227754
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Elham
+  fontNames:
+  - B Elham
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

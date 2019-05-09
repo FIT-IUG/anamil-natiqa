@@ -1,0 +1,82 @@
+Initialize engine version: 2017.1.0b8 (17011ab1b2e1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   25.21.14.1616
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\ArabicSupport.dll (this message is harmless)
+Loading F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\ArabicSupport.dll into Unity Child Domain
+Platform assembly: F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\university\مشروع التخرج\MemoryMatchGameFinal\Final_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.861 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.433398 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.811476 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 0.805186 ms (FindLiveObjects: 0.062608 ms CreateObjectMapping: 0.060042 ms MarkObjects: 0.629163 ms  DeleteObjects: 0.050805 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.715966 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 565.
+Total: 1.383544 ms (FindLiveObjects: 0.106742 ms CreateObjectMapping: 0.101610 ms MarkObjects: 1.097701 ms  DeleteObjects: 0.075438 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.162362 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.565529 ms (FindLiveObjects: 0.048239 ms CreateObjectMapping: 0.044647 ms MarkObjects: 0.354097 ms  DeleteObjects: 0.117519 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.499524 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.990445 ms (FindLiveObjects: 0.078004 ms CreateObjectMapping: 0.086728 ms MarkObjects: 0.702036 ms  DeleteObjects: 0.121111 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.034066 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 529.
+Total: 1.527236 ms (FindLiveObjects: 0.128296 ms CreateObjectMapping: 0.069279 ms MarkObjects: 1.269104 ms  DeleteObjects: 0.057476 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.974928 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 1.107451 ms (FindLiveObjects: 0.081083 ms CreateObjectMapping: 0.089807 ms MarkObjects: 0.861123 ms  DeleteObjects: 0.072872 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.208548 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.852912 ms (FindLiveObjects: 0.065174 ms CreateObjectMapping: 0.071845 ms MarkObjects: 0.660468 ms  DeleteObjects: 0.052857 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.880110 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 363.
+Total: 0.465458 ms (FindLiveObjects: 0.055423 ms CreateObjectMapping: 0.049778 ms MarkObjects: 0.311502 ms  DeleteObjects: 0.047212 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 32d4 -> priority: 1 
+  Thread -> id: 10d0 -> priority: 1 
